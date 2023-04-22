@@ -1,0 +1,13 @@
+
+
+#office-image {
+    width: 250px;
+    position: relative;
+    z-index: 0;
+}
+
+#image-div {
+    background-color: #aa5cdb;
+    position: relative;
+    z-index: 1;
+}
